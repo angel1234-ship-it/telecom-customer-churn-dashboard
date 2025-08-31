@@ -7,11 +7,11 @@ The dataset was downloaded from Maven Analytics
 
 The workflow included:
 
-Data Cleaning & Preparation → Done in Python (pandas), handling missing values, outliers, duplicates, and inconsistent entries.
+   * Data Cleaning & Preparation → Done in Python (pandas), handling missing values, outliers, duplicates, and inconsistent entries.
 
-Exploratory Data Analysis (EDA) → Performed using pandas (summary statistics) and visual checks such as box plots.
+  * Exploratory Data Analysis (EDA) → Performed using pandas (summary statistics) and visual checks such as box plots.
 
-Visualization & Dashboard → Built in Power BI to uncover insights about churn drivers, tenure, payment methods, referrals, and revenue distribution.
+  * Visualization & Dashboard → Built in Power BI to uncover insights about churn drivers, tenure, payment methods, referrals, and revenue distribution.
 
 # 🧹 Data Cleaning Steps
 
@@ -25,9 +25,9 @@ Visualization & Dashboard → Built in Power BI to uncover insights about churn 
 
 5) For missing values in Average Monthly Long Distance:
 
-*  Created a box plot to check for outliers → none detected.
+   *  Created a box plot to check for outliers → none detected.
 
-*  Imputed missing values with the mean.
+   *  Imputed missing values with the mean.
 
 6) Replaced NaN values in Multiple Lines column with "No".
 
