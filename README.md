@@ -92,10 +92,12 @@ The Power BI dashboard includes:
 
 # Other Visualizations
 
-Here are additional charts and insights:
-![Chart 1](screenshot/chart2.png)
-![Chart 2](screenshot/chart3.png)
-![Chart 3](screenshot/chart2.png)
+## Here are additional charts:
+![Chart 1](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/visualization1.png)
+
+![Chart 2](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Visualization3.png)
+
+![Chart 3](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Visualization2.png)
 
 
 # 🛠️ Tools & Technologies
