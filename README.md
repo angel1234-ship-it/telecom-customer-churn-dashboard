@@ -86,6 +86,8 @@ The Power BI dashboard includes:
 
 * Total Revenue Vs Tenure(in months)
 
+  ![Screenshot]()
+
 # 🛠️ Tools & Technologies
 
 * Python (pandas, matplotlib) → Data cleaning & EDA
