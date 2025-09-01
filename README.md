@@ -1,5 +1,5 @@
 # 📊 Telecom Customer Churn Analysis
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes customer churn for a fictional telecommunication company that provides both phone and internet services.
 The dataset was downloaded from Maven Analytics
@@ -13,7 +13,7 @@ The workflow included:
 
   * Visualization & Dashboard → Built in Power BI to uncover insights about churn drivers, tenure, payment methods, referrals, and revenue distribution.
 
-# 🧹 Data Cleaning Steps
+## 🧹 Data Cleaning Steps
 
 1) Checked for duplicate rows → none found.
 
@@ -43,7 +43,7 @@ The workflow included:
 
 9) Generated descriptive statistics (mean, standard deviation, min, max) using df.describe().
 
-# 🔑 Key Insights
+## 🔑 Key Insights
 
 * The majority of company revenue comes from loyal customers with a tenure of 24 months or more.
 * Over the 72-month period: 67.02% of customers stayed, 26.54% churned, and 6.45% joined.
@@ -74,7 +74,7 @@ Specifically:
 
 * The most common payment method was Bank Withdrawal (55.5%), followed by Credit Card and Mail Check.
 
-# 📈 Dashboard Highlights
+## 📈 Dashboard Highlights
 
 The Power BI dashboard includes:
 
@@ -86,13 +86,13 @@ The Power BI dashboard includes:
 
 * Total Revenue Vs Tenure(in months)
 
- # Here’s a preview of the dashboard:
+ ### Here’s a preview of the dashboard:
 
   ![Screenshot](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Dashboardscreenshot.png)
 
-# Other Visualizations
+## Other Visualizations
 
-## Here are additional charts:
+### Here are additional charts:
 ![Chart 1](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/visualization1.png)
 
 ![Chart 2](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Visualization3.png)
@@ -106,7 +106,7 @@ You can view the full Power BI report here:
 - 📄 [Download PDF Report](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Dashboard.pdf)
 
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 * Python (pandas, matplotlib) → Data cleaning & EDA
 
