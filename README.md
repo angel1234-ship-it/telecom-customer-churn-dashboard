@@ -99,6 +99,12 @@ The Power BI dashboard includes:
 
 ![Chart 3](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Visualization2.png)
 
+## 📊 Full Report
+
+You can view the full Power BI report here:
+
+- 📄 [Download PDF Report]()
+
 
 # 🛠️ Tools & Technologies
 
