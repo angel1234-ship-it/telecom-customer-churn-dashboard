@@ -117,7 +117,7 @@ The Power BI dashboard includes:
 
 You can view the full Power BI report here:
 
-- 📄 [Download PDF Report](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Dashboard.pdf)
+- 📄 [Download PDF Report](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Telecom.pdf)
 
 
 ## 🛠️ Tools & Technologies
