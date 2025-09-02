@@ -46,8 +46,11 @@ The workflow included:
 ## 🔑 Key Insights
 
 * The majority of company revenue comes from loyal customers with a tenure of 24 months or more.
+  
 * Over the 72-month period: 67.02% of customers stayed, 26.54% churned, and 6.45% joined.
-
+  
+* A significant portion of churned customers were on month-to-month contracts and did not have an offer. This indicates a key opportunity for proactive retention.
+  
 * Across all tenure categories, customers received a total refund of $13.82K.
 
 * The top churn reasons were:
@@ -73,6 +76,17 @@ Specifically:
 * Established customers contributed 11.24% of referrals (10.00% stayed and 1.24% churned).
 
 * The most common payment method was Bank Withdrawal (55.5%), followed by Credit Card and Mail Check.
+
+## 💡 Business Recommendations
+### Based on the analysis, here are the key recommendations to reduce churn and improve customer loyalty:
+
+1) Introduce Targeted Offers for At-Risk Customers:Focus on engaging month-to-month customers who do not have an active offer. Incentivize them with a personalized marketing campaign to accept an offer or upgrade to a long-term contract.
+
+2) Invest in Competitive Analysis: The top churn reasons were due to competitors' better devices and offers. The company should conduct a thorough analysis of competitor products and pricing to ensure its offerings remain competitive.
+
+3) Enhance Support Staff Training: Address the significant portion of churn attributed to poor support staff attitude. Implement a training program to improve customer service and satisfaction, strengthening customer relationships.
+
+4) Review Monthly Charge Structures: Evaluate whether monthly charges are perceived as too high by customers, particularly in the month-to-month segment. Consider offering more flexible or affordable plans to retain this group.
 
 ## 📈 Dashboard Highlights
 
