@@ -43,6 +43,8 @@ The workflow included:
 
 9) Generated descriptive statistics (mean, standard deviation, min, max) using df.describe().
 
+📄 [View the Data Cleaning Notebook](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Telecom.pdf)
+
 ## 🔑 Key Insights
 
 * The majority of company revenue comes from loyal customers with a tenure of 24 months or more.
