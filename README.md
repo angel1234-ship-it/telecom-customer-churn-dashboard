@@ -43,7 +43,7 @@ The workflow included:
 
 9) Generated descriptive statistics (mean, standard deviation, min, max) using df.describe().
 
-📄 [View the Data Cleaning Notebook](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Telecom.pdf)
+📄 [View the Data Cleaning Notebook](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/Projectcleaning.ipynb)
 
 ## 🔑 Key Insights
 
