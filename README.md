@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis
+# 📊 12:1 ROI: Data-Driven Intervention to Secure $510K in At-Risk Telecom Revenue
 ## 📌 Project Overview
 
 This project analyzes customer churn for a fictional telecommunication company that provides both phone and internet services.
@@ -53,7 +53,7 @@ To move beyond descriptive analysis and quantify the risk of the top churn drive
 ### Total Revenue = ({Total Charges} + {Total Long Distance Charges} + {Total Extra Data Charges}) - {Total Refunds} 
 Competitor Vulnerability Score (Y-Axis): A custom metric (Score 0-3) designed to identify customers most susceptible to a competitor's offer. This score combines:Contract Vulnerability: Month-to-Month contracts receive the highest risk score.Support Vulnerability: Customers lacking Premium Tech Support (a premium lock-in feature) receive an additional risk point.This score was visualized against Total Revenue to pinpoint the High-Value / High-Vulnerability segment.
 
-![Chart 1](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/visualization1.png)
+![Chart 1](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/scatterplot.png)
 
 ## 🔑 Key Insights
 
@@ -61,7 +61,7 @@ Competitor Vulnerability Score (Y-Axis): A custom metric (Score 0-3) designed to
   
 * Over the 72-month period: 67.02% of customers stayed, 26.54% churned, and 6.45% joined.
   
-* A significant portion of churned customers were on month-to-month contracts and did not have an offer. This indicates a key opportunity for proactive retention.
+* A significant portion of churned customers were on month-to-month contracts. This indicates a key opportunity for proactive retention.
   
 * Across all tenure categories, customers received a total refund of $13.82K.
 
@@ -89,16 +89,42 @@ Specifically:
 
 * The most common payment method was Bank Withdrawal (55.5%), followed by Credit Card and Mail Check.
 
-## 💡 Business Recommendations
-### Based on the analysis, here are the key recommendations to reduce churn and improve customer loyalty:
+  ## 💰 Quantified Strategic Recommendation
+The analysis isolated the most critical business risk: 464 high-value Stayed customers sitting in the highest vulnerability quadrant. This led to a quantifiable, high-ROI recommendation.1. The Cost of Inaction (ARR at Risk)MetricValueStrategic ThresholdsTarget Customers (N)464 Stayed CustomersRevenue $\geq \$4,801.15$Total Cumulative Revenue (LTV) at Risk$3,171,701.46Vulnerability Score $\geq 2$Estimated Annual Recurring Revenue (ARR) at Risk$510,161.40Average Monthly Charge: $91.62
+### 1. The Cost of Inaction (ARR at Risk)
 
-1) Introduce Targeted Offers for At-Risk Customers:Focus on engaging month-to-month customers who do not have an active offer. Incentivize them with a personalized marketing campaign to accept an offer or upgrade to a long-term contract.
+| **Metric**                                      | **Value**                | **Strategic Thresholds**               |
+|-------------------------------------------------|--------------------------|----------------------------------------|
+| **Target Customers (N)**                        | 464  Stayed Customers                         |   **Revenue**        ≥ $4,801.15               |
+|        **Total Cumulative Revenue (LTV) at Risk**        |  $3,171,701.46          |  **Vulnerability Score** ≥ 2                                                    |
+|  **Estimated Annual Recurring Revenue (ARR) at Risk)**    |    $510,161.40          |  **Average Monthly Charge**    $91.62   |
 
-2) Invest in Competitive Analysis: The top churn reasons were due to competitors' better devices and offers. The company should conduct a thorough analysis of competitor products and pricing to ensure its offerings remain competitive.
 
-3) Enhance Support Staff Training: Address the significant portion of churn attributed to poor support staff attitude. Implement a training program to improve customer service and satisfaction, strengthening customer relationships.
 
-4) Review Monthly Charge Structures: Evaluate whether monthly charges are perceived as too high by customers, particularly in the month-to-month segment. Consider offering more flexible or affordable plans to retain this group.
+#### Summary
+The **Cost of Inaction** analysis highlights the potential financial impact of losing vulnerable customers.  
+A total of **464 target customers** have been identified, each generating significant revenue. The **total lifetime value (LTV) at risk** stands at **$3.17M**, with an **estimated ARR loss of $510K** if these customers churn.  
+
+The **average monthly charge** of **$91.62** per customer reinforces the importance of proactive retention strategies.  
+Maintaining engagement and addressing vulnerabilities (score ≥ 2) could safeguard over half a million dollars in recurring annual revenue.
+
+### 2. Proving Existing Offer Failure
+Analysis showed that 79.01% of these 464 high-risk customers were already assigned Offer B (and another $18.11\%$ received Offer A). This proves the current offer strategy is ineffective at creating the necessary lock-in to counter competitor threats.
+### 3. High-ROI Intervention (Offer F)
+
+| **Action** | **Total Campaign Cost (Est.)** | **Financial Outcome** |
+|-------------|-------------------------------|------------------------|
+| **Targeted Offer (Offer F):** Free 6-Month Trial of Device Protection Plan **and** Premium Tech Support in exchange for a One-Year Contract Extension. | **$41,760**  <br>(464 customers × est. $90 cost/customer) | **Potential 12:1 ROI** (Retained ARR : Cost), securing **over $510K** in annual revenue by addressing top churn reasons such as better devices or competing offers. |
+
+#### Summary
+**Offer F** presents a cost-effective strategy to retain high-value customers through an attractive value exchange.  
+With an **estimated investment of $41,760**, the campaign could **retain over $510,000 in ARR**, yielding a **12:1 return on investment**.  
+
+By directly tackling key churn drivers — customers seeking **better devices or offers** — this targeted approach strengthens customer loyalty, increases contract renewals, and sustains long-term revenue growth.
+## 💡 Secondary Business Imperatives
+While the primary focus is securing the $510K ARR at risk, the following high-priority initiatives are necessary to improve the core service offering:
+
+**Enhance Support Staff Training**: Address the significant portion of churn attributed to poor support staff attitude (11.77%). Implement a focused training program to improve customer service and satisfaction, thereby strengthening customer relationships and reducing a key point of friction.
 
 ## 📈 Dashboard Highlights
 
