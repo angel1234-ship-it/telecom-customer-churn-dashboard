@@ -50,7 +50,7 @@ The workflow included:
 ## ⚙️ Strategic Feature Engineering(The Predictive Layer)
 To move beyond descriptive analysis and quantify the risk of the top churn drivers (Competitor Offers/Devices), two key strategic metrics were engineered in Python:Total Revenue (X-Axis): A highly accurate Lifetime Value (LTV) proxy calculated as:
 
-### Total Revenue = ({Total Charges} + {Total Long Distance Charges} + {Total Extra Data Charges}) - {Total Refunds} 
+### Total Revenue = (Total Charges + Total Long Distance Charges + Total Extra Data Charges) - Total Refunds
 Competitor Vulnerability Score (Y-Axis): A custom metric (Score 0-3) designed to identify customers most susceptible to a competitor's offer. This score combines:Contract Vulnerability: Month-to-Month contracts receive the highest risk score.Support Vulnerability: Customers lacking Premium Tech Support (a premium lock-in feature) receive an additional risk point.This score was visualized against Total Revenue to pinpoint the High-Value / High-Vulnerability segment.
 
 ![Chart 1](https://github.com/angel1234-ship-it/telecom-customer-churn-dashboard/blob/main/scatterplot.png)
